@@ -7,5 +7,6 @@ public class Practice {
 	public void m1() {
 		System.out.println("Hello Git");
 		System.out.println("Hello EGit");
+		System.out.println("New Changes");
 	}
 }
